@@ -10,7 +10,7 @@ app.use(cors());
 //     }))
 app.use(express.json())
 
-const port = process.env.port||5000;
+const port = process.env.PORT||5000;
 
 const Product = require("../models/products")
 
