@@ -1,3 +1,7 @@
+[submodule "Todosdb/client"]
+
+path = Todosdb/client
+url = "https://github.com/Amith-342/Todosdb/client"
 
 path = Todosdb/client
 url = "https://github.com/Amith-342/Todosdb/client"
